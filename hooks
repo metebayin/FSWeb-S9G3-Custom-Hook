@@ -1,0 +1,13 @@
+import { useState } from 'react';
+
+const useGeceModuAc = () => {
+  const [geceModu, setGeceModu] = useState(false);
+
+  const toggleGeceModu = () => {
+    setGeceModu(prevGeceModu => !prevGeceModu);
+  };
+
+  return [geceModu, toggleGeceModu];
+};
+
+export default useGeceModuAc;

@@ -1,4 +1,4 @@
-# Durum Bilgili Mantık Oluşturma (Statefull Logic) - Gece Modu (Dark Mode)
+npm start# Durum Bilgili Mantık Oluşturma (Statefull Logic) - Gece Modu (Dark Mode)
 
 Bu proje, bu modülde öğrenilen kavram ve teknikleri uygulamanıza ve bunları somut bir projede uygulamanıza olanak tanır. Bu modülde, React'te Form yönetimini üzerine çalıştınız. Stateful logic nedir, bunlar üzerinde custom hooklar nasıl oluşturulur ve birden fazla hook aynı anda nasıl çalıştırılır bunları öğrendiniz. Projenizde bu konulardaki yeterliliğinizi, öğrendiğiniz tüm şeyleri kullanarak oluşturduğunuz bir uygulamayla göstereceksiniz.
 
